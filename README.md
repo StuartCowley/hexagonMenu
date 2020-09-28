@@ -13,7 +13,7 @@ Built using HTML and CSS only
 
 Features:
 
- - Brief completed, messages diaplyed when hovered over or clicked on in mobile view
+ - Brief completed, messages displayed when hovered over or clicked on in mobile view
  - Only works in fixed view windows
  
 Built by:
